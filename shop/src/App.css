@@ -1,0 +1,41 @@
+.cla  
+{
+  margin-left:500px;
+}
+.size 
+{
+  width:500px;
+  
+}
+.size3
+{
+  height: 250px;
+}
+.size4 
+{
+  width:250px;
+}
+@media only screen and (max-width: 360px) 
+{
+.top  
+{
+  width :auto;
+  height: auto;
+}
+.home  
+
+{
+  width :auto;
+  height: auto;
+}
+.cla 
+{
+  margin-left:100px;
+} 
+
+.foot 
+{
+  width:100%;
+  
+}
+}
